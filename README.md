@@ -1,7 +1,12 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Nischay Samant...;This+is+my+profile!&center=true&size=30">
+  </a>
+</h1>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nischay_samant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsamant3077@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
+[!Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nischay_samant) [!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [!email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsamant3077@gmail.com)
+[!GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
 
 
 # 💻 Tech Stack:
