@@ -31,8 +31,6 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=nischay3077&show_icons=true&theme=tokyonight)
-
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nischay3077&layout=compact&theme=tokyonight)
 
 ⭐ From **Nischay Samant**
