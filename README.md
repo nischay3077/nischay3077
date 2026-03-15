@@ -1,12 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Programmers!+👋;I'm+Nischay+Samant;BCA+Student+%7C+Web+Development+Learner&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+Programmers+👋;I'm+Nischay+Samant;BCA+Student">
 </h1>
-
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student  
+- 🎓 BCA(AI&DS) Student  
 - 💻 Interested in Web Development  
 - 🌱 Currently learning Frontend Development 
 
