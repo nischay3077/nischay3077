@@ -25,7 +25,6 @@
     width="860"
   />
 </p>
-
 <p align="center">
   <a href="https://instagram.com/_nischay_samant">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
@@ -54,8 +53,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nischay3077&layout=compact&theme=tokyonight)
-
-⭐ From **Nischay Samant**
+## My Contribution Graph
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nischay3077/nischay3077/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nischay3077/nischay3077/output/pacman-contribution-graph.svg">
+    <img alt="[pacman] contribution graph" src="https://raw.githubusercontent.com/nischay3077/nischay3077/output/pacman-contribution-graph.svg">
+</picture>
