@@ -16,11 +16,27 @@
 - 💻 Interested in Web Development  
 - 🌱 Currently learning Frontend Development 
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nischay_samant)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsamant3077@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nischay3077)
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/social?username=nischay3077&theme=github-dark&style=aura"
+    alt="GitSkins Animated Social Row"
+    width="860"
+  />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/_nischay_samant">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:samsamant3077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nischay3077">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
