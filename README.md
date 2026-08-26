@@ -1,6 +1,15 @@
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=nischay3077&theme=github-dark&style=aura"
+    alt="GitSkins Animated Hero"
+    width="860"
+  />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+Programmers+👋;I'm+Nischay+Samant;BCA+Student">
 </h1>
+
 ## 👨‍💻 About Me
 
 - 🎓 BCA(AI&DS) Student  
